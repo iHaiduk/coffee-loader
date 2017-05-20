@@ -4,12 +4,8 @@
   "author": "Tobias Koppers @sokra",
   "description": "coffee loader module for webpack",
   "dependencies": {
-    "coffeescript": "^2.0.0-beta1",
+    "coffeescript": "^2.0.0-beta2",
     "loader-utils": "^1.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:webpack/coffee-loader.git"
   },
   "licenses": [
     {
